@@ -1,0 +1,1 @@
+# streched-resolution-script-made-in-lua-for-roblox
